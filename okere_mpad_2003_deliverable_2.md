@@ -23,6 +23,10 @@ Did you notice how to create a hyperlink? In Markdown, we put the clickable text
 And to create an unordered list, we simply put a star (`*`) before each item.
 
 ## 1. Getting Data
+To acquire my data, I went onto the Open Ottawa Data portal where I grabbed the [Tree Equity Score 2025 – Suburban](https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-suburban/about), [Tree Equity Score 2025 - Inner Urban](https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-inner-urban/about), [Tree Equity Score 2025 - Outer Urban](https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-outer-urban/about) and [Tree Equity Score 2025 - Downtown Core](https://open.ottawa.ca/datasets/ottawa::tree-equity-score-2025-downtown-core/about) CSV files and imported them into a Google Sheets spreadsheet - with each dataset as separate sheets.
+
+![](Screenshot_2026-11-02_131457.png)
+*Figure 1: Example of me importing a dataset into Google Sheets*
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
