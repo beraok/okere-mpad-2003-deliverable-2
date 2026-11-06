@@ -37,7 +37,6 @@ In terms of valid and invalid values, I would say that the data shown in this da
 While, there is no invalid data in this dataset, there are 4 notable columns which have missing data. Namely columns J and K (NOTE_EN & NOTE_FR) and Columns R and S (PA_EN & PA_FR). It makes sense for columns J and K to contain rows that are empty, as these columns are for additional notes written in both French and English for select variables, however for Columns R and S it gets a bit problematic as there is no explanation for why some columns get Yes or No values and others don't regarding whether they are priority areas or not. It is only data part of the Suburban transect which have this issue, but the assumption to be made is that the empty columns are most likely not priority areas which I could dive into more in my analysis.
 
 ![](Screenshot_2026-11-05_215139.png) ![](Screenshot_2026-11-05_215216.png)
-
 *Figure 3: Screenshots of the discussed columns above*
 
 **Outlier**
