@@ -61,8 +61,6 @@ And finally I added filters to my column titles to make the information easier t
 *Figure 5: Screenshot showing part of my cleaned up dataset with the frozen left rows*
 
 ### 2.3. Analyzing Data
-
-Then moving onto my Analysis.
 To start off, I first created a pivot table and calculated the average Tree Equity Score for the different transects. All of the transects have decent scores, with all of them having a value above 70, indicating that although these transects should aim for more trees overrall they have a fair amount of tree canopy coverage. With the Downtown Core transect having the highest number and the Suburban Transect the lowest value.
 
 ![](Screenshot_2026-11-06_000338.png)
@@ -86,7 +84,8 @@ I decided for my analysis to focus largely on the Tree Equity Score data and the
 
 ## 3. Delivering Data
 
-To conclude, after conducting my analysis, I am able to look more clearly into the data I have gathered.
+To conclude, after conducting my analysis, I am able to look more clearly into the data I have gathered. Although at the start of my EDA I had a vague shape of a story I was unsure how on how I could explore, actually looking into the data and examining it has given me a good idea of the data story I hope to pursue.
+I want to look more into the transects (the Outer Urban and Suburban regions) that are noticably lacking compared to other regions tree canopies and the reasons as to why. For my analysis I hope to interview a representative from Ecology Ottawa or City of Ottawa’s Forestry Services that can provide the key insight needed into the reasons for this issue. The resources I found could aid in providing insight into this issue was the *How is Ottawa's Urban Tree Canopy Doing?* blog post posted by Kristen Busby February this year. I also got insight from the Kitchissipi Times article *Ottawa’s urban neighbourhoods falling behind on tree canopy targets* written by Amanda McLeod and the *As Ottawa expands tree planting initiatives, the federal government makes cuts to its own* by Kaitlin Gruehl that gave insight into the actions the city is taking to tackle this issue and the other governmental issues that may be affecting their progress. 
 
 ## 4. References
 “Methods & Data.” Tree Equity Score. Accessed November 1, 2026. https://www.treeequityscore.org/methodology.
@@ -97,8 +96,10 @@ Eads, David. “How to ‘interview’ a Big Pile of Data.” NPR, October 15, 2
 
 Government of Canada, Statistics Canada. “Data Accuracy and Validation: Methods to Ensure the Quality of Data.” Government of Canada, Statistics Canada, November 2, 2026. https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue/892000062020008. 
 
-<!--Include a list of your references here. Please follow [APA](https://apastyle.apa.org/style-grammar-guidelines/references) or [MLA](https://www.mla.org/MLA-Style) guidelines for references. Hanging paragraphs aren't required though.
+Kristen Busby. (2026) How is Ottawa's Urban Tree Canopy Doing? - Ecology Ottawa. Retrieved October 30, 2026, from https://www.ecologyottawa.ca/tree-canopy-mapping
 
-**Here's an example:**
+Amanda McLeod. (2026) Ottawa’s urban neighbourhoods falling behind on tree canopy targets. Retrieved October 30, 2026, from https://kitchissippi.com/ottawas-urban-neighbourhoods-falling-behind-on-tree-canopy-targets/
 
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153) -->
+Amanda McLeod. (2026) Ottawa’s urban neighbourhoods falling behind on tree canopy targets. Retrieved October 06, 2026, from https://kitchissippi.com/ottawas-urban-neighbourhoods-falling-behind-on-tree-canopy-targets/
+
+Government of Canada, Statistics Canada. “Data Accuracy and Validation: Methods to Ensure the Quality of Data.” Government of Canada, Statistics Canada, November 1, 2026. https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue/892000062020008. 
