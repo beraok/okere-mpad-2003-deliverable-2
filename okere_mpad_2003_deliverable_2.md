@@ -69,8 +69,8 @@ In terms of valid and invalid values, I would say that the data shown in this da
 **Missing**
 While, there is no invalid data in this dataset, there are 4 notable columns which have missing data. Namely columns J and K (NOTE_EN & NOTE_FR) and Columns R and S (PA_EN & PA_FR). It makes sense for columns J and K to contain rows that are empty, as these columns are for additional notes written in both French and English for select variables, however for Columns R and S it gets a bit problematic as there is no explanation for why some columns get Yes or No values and others don't regarding whether they are priority areas or not. It is only data part of the Suburban transect which have this issue, but the assumption to be made is that the empty columns are most likely not priority areas which I could dive into more in my analysis.
 
-![](Screenshot_2026-11-05_215139.png)
-![](Screenshot_2026-11-05_215216.png)
+![](Screenshot_2026-11-05_215139.png) ![](Screenshot_2026-11-05_215216.png)
+
 *Figure 3: Screenshots of the discussed columns above*
 
 **Outlier**
@@ -87,8 +87,21 @@ Support your claims by citing relevant sources. Please follow [APA guidelines fo
 As seen in Bounegru & Gray (2011), a data visualization should be clear... --->
 
 ### 2.2. Cleaning Data
+Moving on I now had to clean my data and this step was fairly easy since these datasets were already mostly cleaned up and lacked any noteable errors as explained in my VIMO Analysis. During this step I largely focused on cleaning up this dataset to make it more focused on the specific analysis I wanted to conduct which was to compare the Tree Equity Scores in different transects to each other as well as see which transects required the most attention and also remove additional details that weren't important to me.
 
-Insert text here.
+Starting off, I combined the data from the different datasets together. This was extremely easy as it just required me copying and pasting the values from different sheets into a single one. After doing that I then froze the top row of the my combined dataset and also made the text bold as shown in the screenshot below.
+
+![](Screenshot_2026-11-05_224837.png)
+*Figure 4: Screenshot showcasing top row being frozen with bold text*
+
+After doing that I then removed the columns that I didn't need, that being columns A, H, K, L, M, O,  Q, T, U and V. Some of these columns included text in french which I didn't need for my analysis, as well as other information not important for my EDA such as the ID numbers of certain places and location data.
+
+After doing that I then shifted around the columns moving the *CTNAME_EN* and *TRNSCT_EN* column to the leftmost part of the dataset, and then froze those columns.
+
+And finally I added filters to my column titles to make the information easier to filter and aid in the process of me analysing the data further on.
+
+![](Screenshot_2026-11-05_234115.png)
+*Figure 5: Screenshot showing part of my cleaned up dataset with the frozen left rows*
 
 ### 2.3. Analyzing Data
 
@@ -110,6 +123,8 @@ Insert text here.
 
 ## 4. References
 Tree Equity Score. (n.d.) Methods & Data. Retrieved October 30, 2026, from https://www.treeequityscore.org/methodology
+
+
 <!--Include a list of your references here. Please follow [APA](https://apastyle.apa.org/style-grammar-guidelines/references) or [MLA](https://www.mla.org/MLA-Style) guidelines for references. Hanging paragraphs aren't required though.
 
 **Here's an example:**
