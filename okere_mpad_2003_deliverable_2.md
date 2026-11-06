@@ -5,8 +5,6 @@
 
 # Deliverable 2: Exploratory Data Analysis (EDA)
 
-<!---Use one hashtag symbol (`#`) to create a level 1 heading like this one.--->
-
 ## 1. Getting Data
 I will be analyzing a group of datasets: the Tree Equity Score 2025 datasets for the Suburban, Downtown Core, Inner Urban & Outer Urban transects in Ottawa which discuss the Tree Equity Scores for the tracts within these transects as well as other additional information like the tree canopy coverage goal for the transect, how much an individual tract contributes to the goal, and which tracts are marked as priority areas.
 
