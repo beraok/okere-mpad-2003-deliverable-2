@@ -32,11 +32,13 @@ To acquire my data, I went onto the Open Ottawa Data portal where I grabbed the 
 ![](Screenshot_2026-11-02_131457.png)
 *Figure 1: Example of me importing a dataset into Google Sheets*
 
-The datasets I had imported were mostly clean, being very  easy to understand all and I was unable to find any spelling mistakes, whitespaces or other issues that could cause concern. The sets also have a combined total of 217 rows and 22 columns.
+The datasets I had imported were mostly clean, being very easy to understand all and I was unable to find any spelling mistakes, whitespaces or other issues that could cause concern. The sets also have a combined total of 217 rows and 22 columns. The only difference I noticed was that decimal values for the data I downloaded had a total of 6 decimal places compared to Open Ottawa data with 3 decimal places.
 
-![]()
+![](Screenshot_2026-11-05_133635.png)
 *Figure 2: a screenshot showcasing the uncleaned combined version of the datasets imported*
 
+Moving unto the data itself, most of the data in these sets are numerical data. Column I ("TES_R") contains discrete ratio data containing the Tree Equity Scores for different tracts and those values are between 0 to 100 (Tree Equity Score, 2026), Column P (TRNSCT_EN)however in my combined set , contains nominal variable as the contain the names of the 4 transects in Ottawa and finally COLUMN G (GAPSCORE),contains continuous data as the decimal values for the score which include a theoretically infinite amount of values not greater than 1.
+From this data a key questions arise: how do the different transects compare in terms of reaching their tree canopy goals? And, which tracts seem to be particularly lacking in terms of trees and their Tree Equity Scores? Which areas does the city designate as Priority Areas and what are the reasons as to why certain areas aren't marked as priority?
 
 <!--Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
@@ -59,6 +61,8 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 ## 2. Understanding Data
 
 ### 2.1. VIMO Analysis
+
+
 
 <!--Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
@@ -93,7 +97,7 @@ Insert text here.
 Insert text here.
 
 ## 4. References
-
+Tree Equity Score. (n.d.) Methods & Data. Retrieved October 30, 2026, from https://www.treeequityscore.org/methodology
 <!--Include a list of your references here. Please follow [APA](https://apastyle.apa.org/style-grammar-guidelines/references) or [MLA](https://www.mla.org/MLA-Style) guidelines for references. Hanging paragraphs aren't required though.
 
 **Here's an example:**
